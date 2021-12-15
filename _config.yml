@@ -1,0 +1,7 @@
+theme: jekyll-theme-cayman
+title: EPUB Viewer
+description: EPUB Viewer for My eBook
+github:
+  is_project_page: false
+url: "https://ryokokuga.github.io/epub-viewer/"
+
