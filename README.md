@@ -6,5 +6,5 @@ Using [Bibi](https://bibi.epub.link/) as EPUB viewer.
 ## Example
 https://ryokokuga.github.io/epub-viewer/Bibi/bibi/?book=  
   
-Add the file name you put in the "bibi-bookshelf" folder after "? Book =".  
+Add the file name you put in the "bibi-bookshelf" folder after "?book =".  
   
